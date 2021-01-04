@@ -1,0 +1,3 @@
+include ':counterview'
+include ':app'
+rootProject.name = "CounterView"
